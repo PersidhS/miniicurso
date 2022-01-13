@@ -1,2 +1,2 @@
 # miniicurso
-Mn
+MiniCurso  dia 1 - R&M
