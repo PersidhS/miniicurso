@@ -13,10 +13,26 @@ body {
     }
 
     main {
-        section img { height: 300px; margin: 15px 0; }
+        
         align-items: center;
         display: flex;
         height: 100vh;
         justify-content: center;
-
     }
+        main > section img{
+            height: 350px;
+            margin: 15px;
+            width: 250px;
+    }
+        main > section button{
+            background-color: rgb(6, 38, 68);
+            border: none;
+            border-radius: 40px;    
+            color: rgb(255, 255, 255);
+            font-family: Copperplate;
+            font-size: 15px;
+            font-weight: 600;
+            letter-spacing: -0.5px;
+            line-height: 40px;
+            padding: 9px 23px;
+        }
